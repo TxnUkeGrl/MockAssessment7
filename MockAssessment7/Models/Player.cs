@@ -11,6 +11,7 @@ namespace MockAssessment7.Models
         public string UserName { get; set; }
         public int Level { get; set; }
         public PlayerClass CurrentClass { get; set; }
+
         public Player(int id, string username, int lvl, PlayerClass playerClass)
         {
             this.ID = id;

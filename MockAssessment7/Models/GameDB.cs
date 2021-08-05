@@ -22,7 +22,7 @@ namespace MockAssessment7.Models
             Players = new List<Player>()
             {
                 new Player(0,"GrantChirpus",100, this.PlayerClasses[1]),
-                new Player(1,"Gamer",75, this.PlayerClasses[0]),
+                new Player(1,"Gamer",50, this.PlayerClasses[0]),
                 new Player(2,"Green-Bean-Gaming",75, this.PlayerClasses[2]),
                 new Player(3,"Jeffery",80, this.PlayerClasses[0]),
                 new Player(4,"FunnyFrog2",90, this.PlayerClasses[3]),
